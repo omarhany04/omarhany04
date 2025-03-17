@@ -1,15 +1,17 @@
-<h1 align="center">Hi 👋, I'm Omar Hany</h1>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Omar+Hany!;" />
+</h1>
 <h3 align="center">A passionate Full Stack Developer, specializing in building dynamic, scalable, and user-friendly web applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarhany04&label=Profile%20views&color=0e75b6&style=flat" alt="omarhany04" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarhany04" alt="omarhany04" /></a> </p>
 
-- 📫 How to reach me **omarhanyy24@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/omarhany04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/omarhany04/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/omarhany04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/omarhany04/" height="30" width="40" /></a>
+<a href="omarhanyy24@gmail.com" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-gmail-logo-icon-download-in-svg-png-gif-file-formats--mail-email-logos-icons-2416660.png?f=webp&w=512" alt="https://www.gmail.com/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,4 +22,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omarhany04&show_icons=true&locale=en" alt="omarhany04" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omarhany04&" alt="omarhany04" /></p>
-
