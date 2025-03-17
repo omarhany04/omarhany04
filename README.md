@@ -1,10 +1,8 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=B0E0E6&&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Omar+Hany!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=F0FAB2&&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Omar+Hany!;" />
 </h1>
 
-<h3 align="center" style="background: linear-gradient(to right,rgb(172, 207, 209),rgb(0, 179, 255),rgb(13, 0, 255));
--webkit-background-clip: text;
--webkit-text-fill-color: transparent;">
+<h3 align="center" style="color:rgb(131, 218, 224);"> 
 A passionate Full Stack Developer, specializing in building dynamic, scalable, and user-friendly web applications.
 </h3>
 
