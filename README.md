@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Omar Hany</h1>
 <h3 align="center">A passionate Full Stack Developer, specializing in building dynamic, scalable, and user-friendly web applications.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmedosama07&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=omarhany04&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
 <p align="center">
 <picture>
   <source
-    srcset="https://github-profile-trophy-alpha.vercel.app/?username=ahmedosama07&theme=onedark&no-frame=true&column=-1"
+    srcset="https://github-profile-trophy-alpha.vercel.app/?username=omarhany04&theme=onedark&no-frame=true&column=-1"
     media="(prefers-color-scheme: dark)"
   />
   <img
-    src="https://github-profile-trophy-alpha.vercel.app/?username=ahmedosama07&no-frame=true&column=-1"
+    src="https://github-profile-trophy-alpha.vercel.app/?username=omarhany04&no-frame=true&column=-1"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
 </picture>
@@ -19,11 +19,11 @@
  <p align="center">
 <picture>
   <source
-    srcset="https://github-readme-stats-ahmedosama07.vercel.app/api?username=ahmedosama07&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
+    srcset="https://github-readme-stats-omarhany04.vercel.app/api?username=omarhany04&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
     media="(prefers-color-scheme: dark)"
   />
   <img
-    src="https://github-readme-stats-ahmedosama07.vercel.app/api?username=ahmedosama07&count_private=true&show_icons=true&include_all_commits=true&theme=default&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
+    src="https://github-readme-stats-omarhany04.vercel.app/api?username=omarhany04&count_private=true&show_icons=true&include_all_commits=true&theme=default&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
 </picture>
@@ -32,11 +32,11 @@
  <p align="center">
 <picture>
   <source
-    srcset="https://github-readme-streak-stats-ahmedosama07.vercel.app/?user=ahmedosama07&theme=dark&hide_border=true"
+    srcset="https://github-readme-streak-stats-omarhany04.vercel.app/?user=omarhany04&theme=dark&hide_border=true"
     media="(prefers-color-scheme: dark)"
   />
   <img
-    src="https://github-readme-streak-stats-ahmedosama07.vercel.app/?user=ahmedosama07&theme=default&hide_border=true"
+    src="https://github-readme-streak-stats-omarhany04.vercel.app/?user=omarhany04&theme=default&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
 </picture>
@@ -45,11 +45,11 @@
 <p align="center">
 <picture>
   <source
-    srcset="https://github-readme-stats-ahmedosama07.vercel.app/api/top-langs/?username=ahmedosama07&layout=pie&theme=dark&hide_border=true&langs_count=10"
+    srcset="https://github-readme-stats-omarhany04.vercel.app/api/top-langs/?username=omarhany04&layout=pie&theme=dark&hide_border=true&langs_count=10"
     media="(prefers-color-scheme: dark)"
   />
   <img
-    src="https://github-readme-stats-ahmedosama07.vercel.app/api/top-langs/?username=ahmedosama07&layout=pie&theme=default&hide_border=true&langs_count=10"
+    src="https://github-readme-stats-omarhany04.vercel.app/api/top-langs/?username=omarhany04&layout=pie&theme=default&hide_border=true&langs_count=10"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
 </picture>
