@@ -22,5 +22,3 @@ A passionate Full Stack Developer, specializing in building dynamic, scalable, a
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarhany04&show_icons=true&locale=en&layout=compact" alt="omarhany04" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omarhany04&show_icons=true&locale=en" alt="omarhany04" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omarhany04&" alt="omarhany04" /></p>
