@@ -1,9 +1,12 @@
-
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=00FF00&background=000000&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Omar+Hany!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=B0E0E6&&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Omar+Hany!;" />
 </h1>
 
-<h3 align="center">A passionate Full Stack Developer, specializing in building dynamic, scalable, and user-friendly web applications.</h3>
+<h3 align="center" style="background: linear-gradient(to right,rgb(172, 207, 209),rgb(0, 179, 255),rgb(13, 0, 255));
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;">
+A passionate Full Stack Developer, specializing in building dynamic, scalable, and user-friendly web applications.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarhany04&label=Profile%20views&color=0e75b6&style=flat" alt="omarhany04" /> </p>
 
