@@ -1,6 +1,60 @@
 <h1 align="center">Hi 👋, I'm Omar Hany</h1>
 <h3 align="center">A passionate Full Stack Developer, specializing in building dynamic, scalable, and user-friendly web applications.</h3>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmedosama07&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
+
+<p align="center">
+<picture>
+  <source
+    srcset="https://github-profile-trophy-alpha.vercel.app/?username=ahmedosama07&theme=onedark&no-frame=true&column=-1"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img
+    src="https://github-profile-trophy-alpha.vercel.app/?username=ahmedosama07&no-frame=true&column=-1"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+</picture>
+</p>
+
+ <p align="center">
+<picture>
+  <source
+    srcset="https://github-readme-stats-ahmedosama07.vercel.app/api?username=ahmedosama07&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img
+    src="https://github-readme-stats-ahmedosama07.vercel.app/api?username=ahmedosama07&count_private=true&show_icons=true&include_all_commits=true&theme=default&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+</picture>
+</p>
+
+ <p align="center">
+<picture>
+  <source
+    srcset="https://github-readme-streak-stats-ahmedosama07.vercel.app/?user=ahmedosama07&theme=dark&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img
+    src="https://github-readme-streak-stats-ahmedosama07.vercel.app/?user=ahmedosama07&theme=default&hide_border=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+</picture>
+</p>
+
+<p align="center">
+<picture>
+  <source
+    srcset="https://github-readme-stats-ahmedosama07.vercel.app/api/top-langs/?username=ahmedosama07&layout=pie&theme=dark&hide_border=true&langs_count=10"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img
+    src="https://github-readme-stats-ahmedosama07.vercel.app/api/top-langs/?username=ahmedosama07&layout=pie&theme=default&hide_border=true&langs_count=10"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+</picture>
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarhany04&label=Profile%20views&color=0e75b6&style=flat" alt="omarhany04" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarhany04" alt="omarhany04" /></a> </p>
@@ -9,9 +63,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/omarhany04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/omarhany04/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100013793328022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100013793328022" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/omarhany04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/omarhany04/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100013793328022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100013793328022" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_omarhanyy_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/" height="30" width="40" /></a>
+<a href="mailto:omarhanyy24@gmail.com"> <img align="center" src="/img/icons8-gmail-32.svg"> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
