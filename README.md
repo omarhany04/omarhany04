@@ -1,8 +1,8 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=F0FAB2&&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Omar+Hany!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=1ABFCB&&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Omar+Hany!;" />
 </h1>
 
-<h3 align="center" style="color:rgb(131, 218, 224);"> 
+<h3 align="center"> 
 A passionate Full Stack Developer, specializing in building dynamic, scalable, and user-friendly web applications.
 </h3>
 
