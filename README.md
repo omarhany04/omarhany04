@@ -11,7 +11,7 @@ A passionate Full Stack Developer, specializing in building dynamic, scalable, a
 <p align="center">
 <picture>
   <source
-    srcset="https://github-profile-trophy-alpha.vercel.app/?username=omarhany04&theme=dark_lover&no-frame=true&column=-1"
+    srcset="https://github-profile-trophy-alpha.vercel.app/?username=omarhany04&theme=dark_dimmed&no-frame=true&column=-1"
     media="(prefers-color-scheme: dark)"
   />
   <img
