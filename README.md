@@ -8,7 +8,19 @@ A passionate Full Stack Developer, specializing in building dynamic, scalable, a
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarhany04&label=Profile%20views&color=0e75b6&style=flat" alt="omarhany04" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarhany04 & theme=onedark" alt="omarhany04" /></a> </p>
+<p align="center">
+<picture>
+  <source
+    srcset="https://github-profile-trophy-alpha.vercel.app/?username=omarhany04&theme=onedark&no-frame=true&column=-1"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img
+    src="https://github-profile-trophy-alpha.vercel.app/?username=omarhany04&no-frame=true&column=-1"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+</picture>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/omarhany04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/omarhany04/" height="30" width="40" /></a>
