@@ -35,3 +35,9 @@ A passionate Full Stack Developer specializing in building dynamic, scalable, an
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarhany04&show_icons=true&locale=en&theme=radical&layout=compact" alt="omarhany04" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omarhany04&show_icons=true&theme=radical&locale=en" alt="omarhany04" /></p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=omarhany04&count_private=true&theme=radical&title_color=00b3ff"/>
+  </a>
+</p>
