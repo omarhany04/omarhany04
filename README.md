@@ -32,9 +32,13 @@ A passionate Full Stack Developer specializing in building dynamic, scalable, an
     <img src="https://skillicons.dev/icons?i=react,c,cs,java,python,js,cpp,python,docker,aws,tailwind,bootstrap,figma,matlab,express,arduino,materialui,mongodb,mysql,nodejs,postman,processing,redux,vercel,wordpress,html,css,vscode,ai,git" />
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarhany04&show_icons=true&locale=en&theme=radical&layout=compact" alt="omarhany04" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omarhany04&show_icons=true&locale=en&theme=radical&layout=compact" alt="omarhany04" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omarhany04&show_icons=true&theme=radical&locale=en" alt="omarhany04" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omarhany04&show_icons=true&theme=radical&locale=en" alt="omarhany04" />
+</p>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
