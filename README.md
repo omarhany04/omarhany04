@@ -46,6 +46,20 @@ A passionate Full Stack Developer specializing in building dynamic, scalable, an
   </a>
 </p>
 
+
+
+
 <p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=wave&color=0:C04848,50:061161,75:480048,100:C0C0C0&height=150&section=footer"/>
+  <img id="footer-capsule" src="" alt="Footer Capsule"/>
 </p>
+
+<script>
+  const capsuleImages = [
+    "https://capsule-render.vercel.app/api?type=wave&color=0:7b4397,50:C04848,100:061161&height=150&section=footer",
+    "https://capsule-render.vercel.app/api?type=wave&color=0:C04848,50:061161,75:480048,100:FFD700&height=150&section=footer",
+    "https://capsule-render.vercel.app/api?type=wave&color=0:780206,100:061161&height=150&section=footer"
+  ];
+  const randomIndex = Math.floor(Math.random() * capsuleImages.length);
+  document.getElementById("footer-capsule").src = capsuleImages[randomIndex];
+</script>
+
