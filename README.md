@@ -49,5 +49,5 @@ A passionate Full Stack Developer specializing in building dynamic, scalable, an
 </p>
 
 <p align="center">
-   <img src="https://capsule-render.vercel.app/api?type=wave&color=0:C04848,50:061161,75:480048,100:C0C0C0&height=150&section=footer"/>
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C04848,50:061161,75:480048,100:C0C0C0&height=150&section=footer"/>
 </p>
