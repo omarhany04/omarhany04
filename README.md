@@ -1,6 +1,6 @@
 <h1 align="center">
-    <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=1ACBC3&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome!👋;I'm+Omar+Hany!;Software+Engineer!;" />
+  <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=1ACBC3&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome!👋;I'm+Omar+Hany!;Software+Engineer!;" />
 </h1>
 <h3 align="center"> 
 A passionate Full Stack Developer specializing in building dynamic, scalable, and user-friendly web applications, with experience managing projects from concept to deployment.
@@ -10,14 +10,14 @@ A passionate Full Stack Developer specializing in building dynamic, scalable, an
 
 <p align="center">
 <picture>
-  <source
-    srcset="https://github-profile-trophy-alpha.vercel.app/?username=omarhany04&theme=radical&no-frame=true&no-bg=true&column=-1"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img
-    src="https://github-profile-trophy-alpha.vercel.app/?username=omarhany04&no-frame=true&column=-1"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
+<source
+  srcset="https://github-profile-trophy-alpha.vercel.app/?username=omarhany04&theme=radical&no-frame=true&no-bg=true&column=-1"
+  media="(prefers-color-scheme: dark)"
+/>
+<img
+  src="https://github-profile-trophy-alpha.vercel.app/?username=omarhany04&no-frame=true&column=-1"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
 </picture>
 </p>
 
@@ -29,37 +29,23 @@ A passionate Full Stack Developer specializing in building dynamic, scalable, an
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,c,cs,java,python,js,cpp,python,docker,aws,tailwind,bootstrap,figma,matlab,express,arduino,materialui,mongodb,mysql,nodejs,postman,processing,redux,vercel,wordpress,html,css,vscode,ai,git" />
+  <img src="https://skillicons.dev/icons?i=react,c,cs,java,python,js,cpp,python,docker,aws,tailwind,bootstrap,figma,matlab,express,arduino,materialui,mongodb,mysql,nodejs,postman,processing,redux,vercel,wordpress,html,css,vscode,ai,git" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omarhany04&show_icons=true&locale=en&theme=radical&layout=compact" alt="omarhany04" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=omarhany04&show_icons=true&locale=en&theme=radical&layout=compact" alt="omarhany04" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omarhany04&show_icons=true&theme=radical&locale=en" alt="omarhany04" />
+<img src="https://github-readme-stats.vercel.app/api?username=omarhany04&show_icons=true&theme=radical&locale=en" alt="omarhany04" />
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=omarhany04&count_private=true&theme=radical&title_color=00b3ff"/>
-  </a>
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=omarhany04&count_private=true&theme=radical&title_color=00b3ff"/>
+</a>
 </p>
-
-
-
 
 <p align="center">
-  <img id="footer-capsule" src="" alt="Footer Capsule"/>
+   <img src="https://capsule-render.vercel.app/api?type=wave&color=0:C04848,50:061161,75:480048,100:C0C0C0&height=150&section=footer"/>
 </p>
-
-<script>
-  const capsuleImages = [
-    "https://capsule-render.vercel.app/api?type=wave&color=0:7b4397,50:C04848,100:061161&height=150&section=footer",
-    "https://capsule-render.vercel.app/api?type=wave&color=0:C04848,50:061161,75:480048,100:FFD700&height=150&section=footer",
-    "https://capsule-render.vercel.app/api?type=wave&color=0:780206,100:061161&height=150&section=footer"
-  ];
-  const randomIndex = Math.floor(Math.random() * capsuleImages.length);
-  document.getElementById("footer-capsule").src = capsuleImages[randomIndex];
-</script>
-
