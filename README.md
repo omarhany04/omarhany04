@@ -29,7 +29,7 @@ A passionate Full Stack Developer specializing in building dynamic, scalable, an
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,c,cs,java,python,js,cpp,python,docker,aws,tailwind,bootstrap,figma,matlab,express,arduino,materialui,mongodb,mysql,nodejs,postman,processing,redux,vercel,wordpress,html,css,vscode,ai,git" />
+  <img src="https://skillicons.dev/icons?i=react,c,cs,java,python,js,cpp,python,docker,aws,tailwind,bootstrap,figma,matlab,express,arduino,materialui,postgres,mongodb,mysql,nodejs,postman,processing,redux,vercel,wordpress,html,css,vscode,git" />
 </div>
 
 <h1></h1>
