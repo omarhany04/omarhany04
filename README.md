@@ -49,5 +49,9 @@ A passionate Full Stack Developer specializing in building dynamic, scalable, an
 </p>
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=omarhany04&count_private=true&theme=radical&title_color=00b3ff"/>
+</p>
+
+<p align="center">
    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C04848,50:061161,75:480048,100:C0C0C0&height=120&section=footer"/>
 </p>
