@@ -47,5 +47,5 @@ A passionate Full Stack Developer specializing in building dynamic, scalable, an
 </p>
 
 <p align="center">
-      <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C04848,50:061161,75:480048,100:C0C0C0&height=120&text=Thanks%20for%20visiting!&fontSize=35&fontColor=7DF9FF&fontAlignY=75&section=footer" width="600" />
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C04848,50:061161,75:480048,100:C0C0C0&height=120&text=Thanks%20for%20visiting!&fontSize=35&fontColor=7DF9FF&fontAlignY=75&section=footer" width="650" />
 </p>
