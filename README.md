@@ -43,7 +43,7 @@ A passionate Full Stack Developer specializing in building dynamic, scalable, an
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=omarhany04&count_private=true&theme=radical&title_color=00b3ff"/>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-rho-roan.vercel.app?user=omarhany04&theme=radical&mode=weekly" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
