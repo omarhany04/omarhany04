@@ -35,17 +35,17 @@ A passionate Full Stack Developer specializing in building dynamic, scalable, an
 <h1></h1>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=omarhany04&show_icons=true&locale=en&theme=radical&layout=compact" alt="omarhany04" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=omarhany04&show_icons=true&locale=en&theme=radical&layout=compact" width="300" alt="omarhany04" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=omarhany04&show_icons=true&theme=radical&locale=en" alt="omarhany04" />
+<img src="https://github-readme-stats.vercel.app/api?username=omarhany04&show_icons=true&theme=radical&locale=en" width="400" alt="omarhany04" />
 </p>
 
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-rho-roan.vercel.app?user=omarhany04&theme=radical&mode=weekly" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-rho-roan.vercel.app?user=omarhany04&theme=radical&mode=weekly" width="500" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
-   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C04848,50:061161,75:480048,100:C0C0C0&height=120&section=footer"/>
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C04848,50:061161,75:480048,100:C0C0C0&height=120&section=footer" width="600" />
 </p>
