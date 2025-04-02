@@ -6,7 +6,7 @@
 A passionate Full Stack Developer specializing in building dynamic, scalable, and user-friendly web applications, with experience managing projects from concept to deployment.
 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omarhany04&label=Profile%20views&color=0e75b6&style=flat" alt="omarhany04" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omarhany04&label=Profile%20views&color=0e75b6&style=plastic&abbreviated=true" alt="omarhany04" /> </p>
 
 <p align="center">
 <picture>
